@@ -35,7 +35,7 @@ body {
   padding: 0;
   margin: 0;
   border: 10px solid white;
-  background: #d1d1d1;
+  background: #dbdbdc;
   font-family: 'Arboria', sans-serif;
   color: white;
   display: -webkit-box;
@@ -76,9 +76,26 @@ h3 {
   font-weight: normal; }
   @media only screen and (min-width: 640px) {
     h3 {
-      font-size: 2em; } }
+      font-size: 1.5em; } }
 
 .logo {
   width: 200px;
   height: auto;
   display: inline-block; }
+
+ul.social-icons-list {
+  margin: 10px 0;
+  padding: 0;
+  list-style: none; }
+  ul.social-icons-list li {
+    display: inline;
+    padding: 10px; }
+    ul.social-icons-list li .social-icon {
+      width: 50px;
+      height: auto;
+      -webkit-transition: all 0.1s ease-out;
+      -moz-transition: all 0.1s ease-out;
+      transition: all 0.1s ease-out; }
+      ul.social-icons-list li .social-icon:hover {
+        cursor: pointer;
+        transform: scale(1.2); }

@@ -12,7 +12,7 @@ body {
   margin: 0;
   border: 10px solid white;
 
-  background: #d1d1d1;
+  background: #dbdbdc;
 
   font-family: 'Arboria', sans-serif;
   color: white;
@@ -46,7 +46,7 @@ h3 {
   font-weight: normal;
 
   @media only screen and (min-width: 640px) {
-    font-size: 2em;
+    font-size: 1.5em;
   }
 
 }
@@ -55,4 +55,26 @@ h3 {
   width: 200px;
   height: auto;
   display: inline-block;
+}
+
+ul.social-icons-list {
+  margin: 10px 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    display: inline;
+    padding: 10px;
+
+    .social-icon {
+      width: 50px;
+      height: auto;
+      @include transition (all 0.1s ease-out);
+
+      &:hover {
+        cursor: pointer;
+        transform: scale(1.2);
+      }
+    }
+  }
 }
