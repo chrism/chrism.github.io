@@ -2,6 +2,39 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8403",
   "files" : {
+    "\/assets\/images\/image_test\/png\/bfm_118.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/bfm_118.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/bfm_118.png",
+      "initialSize" : 8703,
+      "fileType" : 8192
+    },
+    "\/assets\/images\/image_test\/png\/cherie_fm_120.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/cherie_fm_120.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/cherie_fm_120.png",
+      "initialSize" : 7339,
+      "fileType" : 8192
+    },
+    "\/assets\/images\/image_test\/png\/test_red_128.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_red_128.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_red_128.png",
+      "initialSize" : 1828,
+      "fileType" : 8192
+    },
     "\/bourbon\/functions\/_radial-gradient.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -38,29 +71,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/sass\/app.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/app.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/app.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/assets\/images\/image_test\/bfm_120.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/bfm_120.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/bfm_120.png",
-      "initialSize" : 8940,
-      "fileType" : 8192
-    },
     "\/bourbon\/addons\/_timing-functions.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -85,6 +95,18 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/sass\/app.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/sass\/app.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/app.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/bourbon\/css3\/_inline-block.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -94,18 +116,6 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_inline-block.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/bourbon\/addons\/_directional-values.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/bourbon\/addons\/_directional-values.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_directional-values.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -121,27 +131,39 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/images\/image_test\/cherie_fm_128.png" : {
+    "\/assets\/images\/image_test\/jpg_80\/test_red_256.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/cherie_fm_128.png",
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_red_256.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/cherie_fm_128.png",
-      "initialSize" : 7920,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_red_256.jpg",
+      "initialSize" : 13216,
+      "fileType" : 4096
+    },
+    "\/assets\/images\/image_test\/png\/test_red_512.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_red_512.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_red_512.png",
+      "initialSize" : 8232,
       "fileType" : 8192
     },
-    "\/assets\/images\/image_test\/cherie_fm_118.png" : {
+    "\/bourbon\/addons\/_directional-values.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/cherie_fm_118.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/cherie_fm_118.png",
-      "initialSize" : 7197,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/bourbon\/addons\/_directional-values.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_directional-values.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/assets\/css\/app.css" : {
       "ignoreWasSetByUser" : 0,
@@ -164,6 +186,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/assets\/images\/image_test\/png\/test_green_256.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_green_256.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_green_256.png",
+      "initialSize" : 9652,
+      "fileType" : 8192
+    },
     "\/bourbon\/helpers\/_radial-positions-parser.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -175,6 +208,17 @@
       "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_radial-positions-parser.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/assets\/images\/image_test\/jpg_80\/test_green_118.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_green_118.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_green_118.jpg",
+      "initialSize" : 11042,
+      "fileType" : 4096
     },
     "\/bourbon\/css3\/_hyphens.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -233,6 +277,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/assets\/images\/image_test\/jpg_80\/test_blue_118.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_blue_118.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_blue_118.jpg",
+      "initialSize" : 10636,
+      "fileType" : 4096
+    },
     "\/bourbon\/addons\/_triangle.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -242,18 +297,6 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_triangle.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/bourbon\/functions\/_modular-scale.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/bourbon\/functions\/_modular-scale.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_modular-scale.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -269,15 +312,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/bourbon\/addons\/_position.scss" : {
+    "\/bourbon\/functions\/_modular-scale.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/bourbon\/addons\/_position.scss",
+      "inputAbbreviatedPath" : "\/bourbon\/functions\/_modular-scale.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_position.css",
+      "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_modular-scale.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -293,6 +336,18 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/bourbon\/addons\/_position.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/bourbon\/addons\/_position.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_position.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/bourbon\/addons\/_size.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -305,16 +360,27 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/images\/image_test\/test_green_120.png" : {
+    "\/assets\/images\/image_test\/jpg_80\/test_blue_256.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/test_green_120.png",
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_blue_256.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/test_green_120.png",
-      "initialSize" : 6303,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_blue_256.jpg",
+      "initialSize" : 16741,
+      "fileType" : 4096
+    },
+    "\/assets\/images\/image_test\/jpg_80\/cherie_fm_118.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/cherie_fm_118.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/cherie_fm_118.jpg",
+      "initialSize" : 12101,
+      "fileType" : 4096
     },
     "\/bourbon\/functions\/_unpack.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -352,15 +418,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/images\/image_test\/test_blue_120.png" : {
+    "\/assets\/images\/image_test\/png\/bfm_128.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/test_blue_120.png",
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/bfm_128.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/test_blue_120.png",
-      "initialSize" : 3163,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/bfm_128.png",
+      "initialSize" : 9540,
       "fileType" : 8192
     },
     "\/bourbon\/functions\/_px-to-rem.scss" : {
@@ -375,28 +441,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/images\/image_test\/bfm_128.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/bfm_128.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/bfm_128.png",
-      "initialSize" : 9540,
-      "fileType" : 8192
-    },
-    "\/assets\/images\/image_test\/bfm_256.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/bfm_256.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/bfm_256.png",
-      "initialSize" : 21399,
-      "fileType" : 8192
-    },
     "\/bourbon\/addons\/_prefixer.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -409,6 +453,28 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/assets\/images\/image_test\/png\/test_red_256.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_red_256.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_red_256.png",
+      "initialSize" : 3875,
+      "fileType" : 8192
+    },
+    "\/assets\/images\/image_test\/png\/test_green_120.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_green_120.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_green_120.png",
+      "initialSize" : 6303,
+      "fileType" : 8192
+    },
     "\/bourbon\/css3\/_font-feature-settings.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -420,6 +486,17 @@
       "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_font-feature-settings.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/assets\/images\/image_test\/jpg_80\/cherie_fm_256.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/cherie_fm_256.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/cherie_fm_256.jpg",
+      "initialSize" : 21605,
+      "fileType" : 4096
     },
     "\/bourbon\/css3\/_filter.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -457,15 +534,26 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/images\/image_test\/test_blue_256.png" : {
+    "\/assets\/images\/image_test\/jpg_80\/bfm_256.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/test_blue_256.png",
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/bfm_256.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/test_blue_256.png",
-      "initialSize" : 2864,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/bfm_256.jpg",
+      "initialSize" : 21829,
+      "fileType" : 4096
+    },
+    "\/assets\/images\/image_test\/png\/test_red_118.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_red_118.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_red_118.png",
+      "initialSize" : 1654,
       "fileType" : 8192
     },
     "\/bourbon\/functions\/_strip-units.scss" : {
@@ -480,6 +568,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/assets\/images\/image_test\/jpg_80\/bfm_128.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/bfm_128.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/bfm_128.jpg",
+      "initialSize" : 12592,
+      "fileType" : 4096
+    },
     "\/sass\/image_test.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -492,6 +591,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/assets\/images\/image_test\/png\/test_green_118.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_green_118.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_green_118.png",
+      "initialSize" : 6083,
+      "fileType" : 8192
+    },
     "\/assets\/css\/image_test.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -500,28 +610,6 @@
       "inputAbbreviatedPath" : "\/assets\/css\/image_test.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
-    },
-    "\/assets\/images\/image_test\/test_red_118.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/test_red_118.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/test_red_118.png",
-      "initialSize" : 1654,
-      "fileType" : 8192
-    },
-    "\/assets\/images\/image_test\/test_green_118.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/test_green_118.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/test_green_118.png",
-      "initialSize" : 6083,
-      "fileType" : 8192
     },
     "\/bourbon\/css3\/_placeholder.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -535,17 +623,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/images\/image_test\/test_red_128.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/test_red_128.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/test_red_128.png",
-      "initialSize" : 1828,
-      "fileType" : 8192
-    },
     "\/bourbon\/settings\/_px-to-em.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -557,6 +634,17 @@
       "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_px-to-em.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/assets\/images\/image_test\/png\/test_blue_118.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_blue_118.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_blue_118.png",
+      "initialSize" : 3144,
+      "fileType" : 8192
     },
     "\/bourbon\/css3\/_transform.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -570,6 +658,28 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/assets\/images\/image_test\/jpg_80\/test_red_512.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_red_512.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_red_512.jpg",
+      "initialSize" : 23712,
+      "fileType" : 4096
+    },
+    "\/assets\/images\/image_test\/jpg_80\/test_blue_128.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_blue_128.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_blue_128.jpg",
+      "initialSize" : 10780,
+      "fileType" : 4096
+    },
     "\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -579,15 +689,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/images\/image_test\/test_red_256.png" : {
+    "\/assets\/images\/image_test\/png\/cherie_fm_118.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/test_red_256.png",
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/cherie_fm_118.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/test_red_256.png",
-      "initialSize" : 3875,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/cherie_fm_118.png",
+      "initialSize" : 7197,
       "fileType" : 8192
     },
     "\/bourbon\/settings\/_asset-pipeline.scss" : {
@@ -614,38 +724,27 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/images\/image_test\/test_blue_118.png" : {
+    "\/assets\/images\/image_test\/jpg_80\/test_red_118.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/test_blue_118.png",
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_red_118.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/test_blue_118.png",
-      "initialSize" : 3144,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_red_118.jpg",
+      "initialSize" : 9450,
+      "fileType" : 4096
     },
-    "\/assets\/images\/image_test\/test_blue_128.png" : {
+    "\/assets\/images\/image_test\/jpg_80\/test_green_512.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/test_blue_128.png",
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_green_512.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/test_blue_128.png",
-      "initialSize" : 2938,
-      "fileType" : 8192
-    },
-    "\/assets\/images\/image_test\/test_green_512.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/test_green_512.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/test_green_512.png",
-      "initialSize" : 19810,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_green_512.jpg",
+      "initialSize" : 31663,
+      "fileType" : 4096
     },
     "\/bourbon\/settings\/_prefixer.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -707,17 +806,27 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/bourbon\/css3\/_keyframes.scss" : {
+    "\/assets\/images\/image_test\/png\/bfm_256.png" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/bourbon\/css3\/_keyframes.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_keyframes.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/bfm_256.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/bfm_256.png",
+      "initialSize" : 21399,
+      "fileType" : 8192
+    },
+    "\/assets\/images\/image_test\/jpg_80\/cherie_fm_128.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/cherie_fm_128.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/cherie_fm_128.jpg",
+      "initialSize" : 12325,
+      "fileType" : 4096
     },
     "\/bourbon\/helpers\/_render-gradients.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -728,6 +837,18 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_render-gradients.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/bourbon\/css3\/_keyframes.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/bourbon\/css3\/_keyframes.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_keyframes.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -743,17 +864,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/images\/image_test\/bfm_118.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/bfm_118.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/bfm_118.png",
-      "initialSize" : 8703,
-      "fileType" : 8192
-    },
     "\/bourbon\/helpers\/_radial-arg-parser.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -766,28 +876,49 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/images\/image_test\/test_red_120.png" : {
+    "\/assets\/images\/image_test\/jpg_80\/bfm_120.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/test_red_120.png",
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/bfm_120.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/test_red_120.png",
-      "initialSize" : 1620,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/bfm_120.jpg",
+      "initialSize" : 11585,
+      "fileType" : 4096
     },
-    "\/bourbon\/addons\/_font-family.scss" : {
+    "\/assets\/images\/image_test\/png\/test_blue_256.png" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/bourbon\/addons\/_font-family.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_font-family.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_blue_256.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_blue_256.png",
+      "initialSize" : 2864,
+      "fileType" : 8192
+    },
+    "\/assets\/images\/image_test\/png\/test_green_128.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_green_128.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_green_128.png",
+      "initialSize" : 6761,
+      "fileType" : 8192
+    },
+    "\/assets\/images\/image_test\/png\/bfm_120.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/bfm_120.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/bfm_120.png",
+      "initialSize" : 8940,
+      "fileType" : 8192
     },
     "\/bourbon\/css3\/_border-radius.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -813,17 +944,39 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/bourbon\/css3\/_perspective.scss" : {
+    "\/bourbon\/addons\/_font-family.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/bourbon\/css3\/_perspective.scss",
+      "inputAbbreviatedPath" : "\/bourbon\/addons\/_font-family.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_perspective.css",
+      "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_font-family.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/assets\/images\/image_test\/png\/test_blue_128.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_blue_128.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_blue_128.png",
+      "initialSize" : 2938,
+      "fileType" : 8192
+    },
+    "\/assets\/images\/image_test\/png\/cherie_fm_256.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/cherie_fm_256.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/cherie_fm_256.png",
+      "initialSize" : 15448,
+      "fileType" : 8192
     },
     "\/bourbon\/css3\/_image-rendering.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -836,6 +989,40 @@
       "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_image-rendering.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/bourbon\/css3\/_perspective.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/bourbon\/css3\/_perspective.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_perspective.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/assets\/images\/image_test\/png\/cherie_fm_128.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/cherie_fm_128.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/cherie_fm_128.png",
+      "initialSize" : 7920,
+      "fileType" : 8192
+    },
+    "\/assets\/images\/image_test\/png\/test_green_512.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_green_512.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_green_512.png",
+      "initialSize" : 19810,
+      "fileType" : 8192
     },
     "\/bourbon\/css3\/_hidpi-media-query.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -873,27 +1060,16 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/images\/image_test\/test_red_512.png" : {
+    "\/assets\/images\/image_test\/jpg_80\/test_green_128.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/test_red_512.png",
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_green_128.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/test_red_512.png",
-      "initialSize" : 8232,
-      "fileType" : 8192
-    },
-    "\/assets\/images\/image_test\/cherie_fm_120.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/cherie_fm_120.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/cherie_fm_120.png",
-      "initialSize" : 7339,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_green_128.jpg",
+      "initialSize" : 11543,
+      "fileType" : 4096
     },
     "\/bourbon\/functions\/_tint-shade.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -918,6 +1094,17 @@
       "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_user-select.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/assets\/images\/image_test\/jpg_80\/test_green_120.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_green_120.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_green_120.jpg",
+      "initialSize" : 11099,
+      "fileType" : 4096
     },
     "\/bourbon\/css3\/_appearance.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -967,16 +1154,27 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/images\/image_test\/cherie_fm_256.png" : {
+    "\/assets\/images\/image_test\/jpg_80\/test_blue_120.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/cherie_fm_256.png",
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_blue_120.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/cherie_fm_256.png",
-      "initialSize" : 15448,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_blue_120.jpg",
+      "initialSize" : 10573,
+      "fileType" : 4096
+    },
+    "\/assets\/images\/image_test\/jpg_80\/test_green_256.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_green_256.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_green_256.jpg",
+      "initialSize" : 16919,
+      "fileType" : 4096
     },
     "\/bourbon\/helpers\/_gradient-positions-parser.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -989,6 +1187,39 @@
       "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_gradient-positions-parser.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/assets\/images\/image_test\/jpg_80\/test_red_128.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_red_128.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_red_128.jpg",
+      "initialSize" : 9687,
+      "fileType" : 4096
+    },
+    "\/assets\/images\/image_test\/jpg_80\/test_red_120.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_red_120.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/test_red_120.jpg",
+      "initialSize" : 9421,
+      "fileType" : 4096
+    },
+    "\/assets\/images\/image_test\/jpg_80\/bfm_118.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/bfm_118.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/bfm_118.jpg",
+      "initialSize" : 11871,
+      "fileType" : 4096
     },
     "\/bourbon\/addons\/_html5-input-types.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1014,16 +1245,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/images\/image_test\/test_green_256.png" : {
+    "\/bourbon\/css3\/_linear-gradient.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/test_green_256.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/test_green_256.png",
-      "initialSize" : 9652,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/bourbon\/css3\/_linear-gradient.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_linear-gradient.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/bourbon\/helpers\/_shape-size-stripper.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1037,17 +1269,16 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/bourbon\/css3\/_linear-gradient.scss" : {
+    "\/assets\/images\/image_test\/png\/test_blue_120.png" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/bourbon\/css3\/_linear-gradient.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_linear-gradient.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_blue_120.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_blue_120.png",
+      "initialSize" : 3163,
+      "fileType" : 8192
     },
     "\/bourbon\/functions\/_px-to-em.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1061,16 +1292,16 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/images\/image_test\/test_green_128.png" : {
+    "\/assets\/images\/image_test\/jpg_80\/cherie_fm_120.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/test_green_128.png",
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/cherie_fm_120.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/test_green_128.png",
-      "initialSize" : 6761,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/jpg_80\/cherie_fm_120.jpg",
+      "initialSize" : 12313,
+      "fileType" : 4096
     },
     "\/bourbon\/css3\/_animation.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1083,6 +1314,17 @@
       "outputAbbreviatedPath" : "\/bourbon\/assets\/css\/_animation.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/assets\/images\/image_test\/png\/test_red_120.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_red_120.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/image_test\/png\/test_red_120.png",
+      "initialSize" : 1620,
+      "fileType" : 8192
     }
   },
   "manualImportLinks" : [
